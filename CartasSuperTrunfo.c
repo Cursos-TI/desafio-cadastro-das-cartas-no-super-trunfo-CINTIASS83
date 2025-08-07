@@ -1,4 +1,8 @@
 #include <stdio.h>
+// GESTÃO TECNOLOGIA DA INFORMAÇÃO
+// NIVEL NOVATO: DESAFIO SUPER-TRUNFO
+// ALUNA: CINTIA DA SILVA E SILVA
+// MATRICULA: 202507032682
 
 int main() {
     
@@ -50,8 +54,10 @@ printf("PIB: %.2f bilhões de reais\n", pib1);
 
 printf("Quantidade de Pontos Turísticos: %d aprox.\n", pontosTuristicos1); //dados aproximados
 //fim dados primeira carta
+printf("\n")
 
 printf("=============================================\n"); 
+printf("\n");
 
 // Variáveis para a segunda carta
 char codigo2[4];
